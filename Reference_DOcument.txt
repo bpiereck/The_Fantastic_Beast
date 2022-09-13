@@ -3,3 +3,5 @@ Project: The_Fantastic_Beast
 Git repository is like a timeline that i can a timemachnie to travel within
 
 trying to commit without a msg
+
+Status : to check the status (staging, commiting) of my files
